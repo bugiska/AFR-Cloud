@@ -19,8 +19,8 @@ routes = [
 ]
 
 [[kv_namespaces]]
-binding = "SIREN"
-id = "1e18363cb4474b0abaa0c7e4a8bea159"
+binding = "OGIKI"
+id = "bdf2ac69d76843f88d2d525dbb9016ba:"
 
 [build]
 command = "cargo install -q worker-build && worker-build --release"

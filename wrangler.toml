@@ -28,8 +28,8 @@ routes = [
 ]
 
 [[kv_namespaces]]
-binding = "bone"
-id = "63b4215ad5744cfd90dfa5c0580ff9f1"
+binding = "bacok"
+id = "f35f5211bce24cb19aef9fea214ee308"
 
 [build]
 command = "cargo install -q worker-build && worker-build --release"
